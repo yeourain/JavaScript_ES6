@@ -20,7 +20,3 @@ console.log(b);
 
 b = 2;
 console.log(b);
-
-// 변수 이름짓기 Naming Variables
-//     :저장된 값을 잘 나타낼 수 있는 의미 있는 이름
-//     :"구체적일 수록 좋다"
