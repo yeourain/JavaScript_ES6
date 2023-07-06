@@ -28,6 +28,6 @@ let audio2;
 let backgroundAudio;
 let windAudio;
 
-// 꿀팁
+// 꿀팁.
 let audioBackground;
 let audioWind;
